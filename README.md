@@ -17,10 +17,12 @@ To use this program, ensure you have the following installed on your system:
    git clone https://github.com/Safeera-banu/clear-the-cutter.git
    cd clear-the-cutter
 
-2. Run the program in the terminal:
+2. Replace $directoryPath with your directory path
+
+3. Run the program in the terminal:
    node app.js
 
-3. The program will create folders such as Images, Documents, Videos, etc., and move files into the appropriate folders.
+4. The program will create folders such as Images, Documents, Videos, etc., and move files into the appropriate folders.
 
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to improve the program.

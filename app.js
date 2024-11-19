@@ -27,5 +27,5 @@ function organize(directoryPath) {
  
 }
 
-directoryPath = "C:/Users/demo/Desktop/saf/node-learn/clear-clutter/"
+directoryPath = "C:/Users/demo/Desktop/node-js/clear-clutter/"
 organize(directoryPath)
